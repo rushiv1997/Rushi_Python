@@ -26,4 +26,4 @@ if __name__ == "__main__":
            [9, 10, 11, 12],
            [13, 14, 15, 16]]
 
-    SpiralMatrix(test, 0, 0, R, C)
+    SpiralMatrix(test, 0, 0, R, C) 
